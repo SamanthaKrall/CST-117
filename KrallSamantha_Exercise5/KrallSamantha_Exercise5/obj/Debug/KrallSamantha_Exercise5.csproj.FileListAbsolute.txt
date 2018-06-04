@@ -1,0 +1,10 @@
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_Exercise5\KrallSamantha_Exercise5\obj\Debug\KrallSamantha_Exercise5.csprojAssemblyReference.cache
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_Exercise5\KrallSamantha_Exercise5\obj\Debug\KrallSamantha_Exercise5.Form1.resources
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_Exercise5\KrallSamantha_Exercise5\obj\Debug\KrallSamantha_Exercise5.Properties.Resources.resources
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_Exercise5\KrallSamantha_Exercise5\obj\Debug\KrallSamantha_Exercise5.csproj.GenerateResource.cache
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_Exercise5\KrallSamantha_Exercise5\obj\Debug\KrallSamantha_Exercise5.csproj.CoreCompileInputs.cache
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_Exercise5\KrallSamantha_Exercise5\bin\Debug\KrallSamantha_Exercise5.exe.config
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_Exercise5\KrallSamantha_Exercise5\bin\Debug\KrallSamantha_Exercise5.exe
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_Exercise5\KrallSamantha_Exercise5\bin\Debug\KrallSamantha_Exercise5.pdb
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_Exercise5\KrallSamantha_Exercise5\obj\Debug\KrallSamantha_Exercise5.exe
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_Exercise5\KrallSamantha_Exercise5\obj\Debug\KrallSamantha_Exercise5.pdb
