@@ -9,6 +9,13 @@ namespace KrallSamantha_Exercise6
 {
     public class Dice
     {
+        //This is not exactly right - you need to think of the Die as an object.  Your client program (the form) uses two
+        //such objects.  You want to instantiate the two objects there, not here.  This is a description of the Die class.
+        //The only attribute this class needs is an integer for the number of sides:
+       
+        //Lydia's code
+        private int numsides;
+        
         SnakeEyes f1 = new SnakeEyes();
         public static int die1;
         public static int die2;
@@ -16,12 +23,27 @@ namespace KrallSamantha_Exercise6
         public static int d1;
         public static int d2;
         public static int rolls;
-
+        
+        //this is your constructor.  It should take an int for the number of sides of the new die you are instantiating
         public Dice(int random)
         {
-            int sidesOfDie = diceNum.Next(4, 20);
+            //updated by Lydia
+            int sidesOfDie = random; //diceNum.Next(4, 20);
+            
+            //it also makes good sense to use some exception handling here in case the user passes in
+            //an illegal value for the number of sides.
         }
+        
+        //one method is needed to roll a die 
+        //Lydia's code
+        public int rollDie(){
+            //generate a random number between 0 and sidesOfDie-1
+            int val = random(0, sidesOfDie);
+            return val + 1;
+        }
+        
 
+        //You don't need any of the rest of this.  
         public static int D1()
         {
             int die1 = d1;
