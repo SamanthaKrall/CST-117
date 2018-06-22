@@ -1,0 +1,7 @@
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_Ex9\KrallSamantha_Ex9\obj\Debug\KrallSamantha_Ex9.csprojAssemblyReference.cache
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_Ex9\KrallSamantha_Ex9\obj\Debug\KrallSamantha_Ex9.csproj.CoreCompileInputs.cache
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_Ex9\KrallSamantha_Ex9\bin\Debug\KrallSamantha_Ex9.exe.config
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_Ex9\KrallSamantha_Ex9\bin\Debug\KrallSamantha_Ex9.exe
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_Ex9\KrallSamantha_Ex9\bin\Debug\KrallSamantha_Ex9.pdb
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_Ex9\KrallSamantha_Ex9\obj\Debug\KrallSamantha_Ex9.exe
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_Ex9\KrallSamantha_Ex9\obj\Debug\KrallSamantha_Ex9.pdb

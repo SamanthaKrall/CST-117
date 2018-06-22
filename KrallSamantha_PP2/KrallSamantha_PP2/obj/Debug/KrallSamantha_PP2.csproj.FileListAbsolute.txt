@@ -1,0 +1,10 @@
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_PP2\KrallSamantha_PP2\bin\Debug\KrallSamantha_PP2.exe.config
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_PP2\KrallSamantha_PP2\bin\Debug\KrallSamantha_PP2.exe
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_PP2\KrallSamantha_PP2\bin\Debug\KrallSamantha_PP2.pdb
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_PP2\KrallSamantha_PP2\obj\Debug\KrallSamantha_PP2.csprojAssemblyReference.cache
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_PP2\KrallSamantha_PP2\obj\Debug\KrallSamantha_PP2.pizzaForm.resources
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_PP2\KrallSamantha_PP2\obj\Debug\KrallSamantha_PP2.Properties.Resources.resources
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_PP2\KrallSamantha_PP2\obj\Debug\KrallSamantha_PP2.csproj.GenerateResource.cache
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_PP2\KrallSamantha_PP2\obj\Debug\KrallSamantha_PP2.csproj.CoreCompileInputs.cache
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_PP2\KrallSamantha_PP2\obj\Debug\KrallSamantha_PP2.exe
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_PP2\KrallSamantha_PP2\obj\Debug\KrallSamantha_PP2.pdb

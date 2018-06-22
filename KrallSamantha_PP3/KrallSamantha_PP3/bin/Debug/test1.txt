@@ -1,0 +1,12 @@
+The original text: 
+The Fox is great at Jumping 
+All lower case text: 
+the fox is great at jumping Alphabetically
+
+at
+fox
+great
+is
+jumping
+theLongest word with the mot vowels
+jumping
