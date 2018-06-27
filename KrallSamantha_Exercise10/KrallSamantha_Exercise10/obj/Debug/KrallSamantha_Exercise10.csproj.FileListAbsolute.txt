@@ -1,0 +1,7 @@
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_Exercise10\KrallSamantha_Exercise10\bin\Debug\KrallSamantha_Exercise10.exe.config
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_Exercise10\KrallSamantha_Exercise10\bin\Debug\KrallSamantha_Exercise10.exe
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_Exercise10\KrallSamantha_Exercise10\bin\Debug\KrallSamantha_Exercise10.pdb
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_Exercise10\KrallSamantha_Exercise10\obj\Debug\KrallSamantha_Exercise10.csproj.CoreCompileInputs.cache
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_Exercise10\KrallSamantha_Exercise10\obj\Debug\KrallSamantha_Exercise10.exe
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_Exercise10\KrallSamantha_Exercise10\obj\Debug\KrallSamantha_Exercise10.pdb
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_Exercise10\KrallSamantha_Exercise10\obj\Debug\KrallSamantha_Exercise10.csprojResolveAssemblyReference.cache
