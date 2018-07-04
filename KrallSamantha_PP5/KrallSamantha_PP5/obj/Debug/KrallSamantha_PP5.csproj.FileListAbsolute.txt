@@ -1,0 +1,11 @@
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_PP5\KrallSamantha_PP5\bin\Debug\KrallSamantha_PP5.exe.config
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_PP5\KrallSamantha_PP5\bin\Debug\KrallSamantha_PP5.exe
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_PP5\KrallSamantha_PP5\bin\Debug\KrallSamantha_PP5.pdb
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_PP5\KrallSamantha_PP5\obj\Debug\KrallSamantha_PP5.csprojAssemblyReference.cache
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_PP5\KrallSamantha_PP5\obj\Debug\KrallSamantha_PP5.luckyNumbersForm.resources
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_PP5\KrallSamantha_PP5\obj\Debug\KrallSamantha_PP5.Properties.Resources.resources
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_PP5\KrallSamantha_PP5\obj\Debug\KrallSamantha_PP5.resultsForm.resources
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_PP5\KrallSamantha_PP5\obj\Debug\KrallSamantha_PP5.csproj.GenerateResource.cache
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_PP5\KrallSamantha_PP5\obj\Debug\KrallSamantha_PP5.csproj.CoreCompileInputs.cache
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_PP5\KrallSamantha_PP5\obj\Debug\KrallSamantha_PP5.exe
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_PP5\KrallSamantha_PP5\obj\Debug\KrallSamantha_PP5.pdb
