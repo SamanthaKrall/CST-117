@@ -1,0 +1,7 @@
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_MS2\KrallSamantha_MS2\bin\Debug\KrallSamantha_MS2.exe.config
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_MS2\KrallSamantha_MS2\bin\Debug\KrallSamantha_MS2.exe
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_MS2\KrallSamantha_MS2\bin\Debug\KrallSamantha_MS2.pdb
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_MS2\KrallSamantha_MS2\obj\Debug\KrallSamantha_MS2.csprojAssemblyReference.cache
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_MS2\KrallSamantha_MS2\obj\Debug\KrallSamantha_MS2.csproj.CoreCompileInputs.cache
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_MS2\KrallSamantha_MS2\obj\Debug\KrallSamantha_MS2.exe
+C:\Users\Bernie\Desktop\GCU\2CST-117\KrallSamantha_MS2\KrallSamantha_MS2\obj\Debug\KrallSamantha_MS2.pdb
